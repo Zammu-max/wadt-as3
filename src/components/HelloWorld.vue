@@ -9,7 +9,7 @@ const count = ref(0)
 </script>
 
 <template>
-  <h1>{{ msg }}</h1>
+  <!-- <h1>{{ msg }}</h1> -->
 
   <!-- <p>
     Recommended IDE setup:
@@ -31,8 +31,7 @@ const count = ref(0)
     Edit
     <code>components/HelloWorld.vue</code> to test hot module replacement.
   </p> -->
-
-  
+  <!-- <code>components/HelloWorld.vue</code>  -->
 </template>
 
 <style scoped>
